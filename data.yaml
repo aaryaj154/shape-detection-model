@@ -1,0 +1,5 @@
+train: dataset/train/images
+val: dataset/val/images
+
+nc: 3  # number of classes (for example: circle, square, triangle)
+names: ['circle', 'square', 'triangle']
